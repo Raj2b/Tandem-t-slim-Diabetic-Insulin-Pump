@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file>icons/droplet.png</file>
+    <file>icons/gear.png</file>
+    <file>icons/bolusStartedIcon.png</file>
+    <file>icons/maintains.png</file>
+    <file>icons/decreases.png</file>
+    <file>icons/stops.png</file>
+    <file>icons/increases.png</file>
+    <file>icons/delivers.png</file>
+
+
+  </qresource>
+</RCC>
