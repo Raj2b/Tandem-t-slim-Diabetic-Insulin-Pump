@@ -57,10 +57,10 @@ cd Tandem-t-slim-X2-Insulin-Pump
 ## Screenshots
 
 ### Homescreen (CGM + Bolus Overview)
-![Homescreen](screenshots/homescreen.png)
+![Homescreen](screenshots/HomeScreen.png)
 
 ### Manual Bolus Entry
-![Manual Bolus](screenshots/manual_bolus.png)
+![Manual Bolus](screenshots/ManualBolus.png)
 
 ### Security PIN Entry
-![PIN Screen](screenshots/pin_screen.png)
+![PIN Screen](screenshots/LockScreen.png)
