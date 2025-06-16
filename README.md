@@ -46,5 +46,21 @@ cd Tandem-t-slim-X2-Insulin-Pump
         make
         ./Tandem-t-slim-X2-Insulin-Pump
 
-### Usage
-   - App launces to lock scr
+## Usage
+   - On startup, the app shows a **lock screen** if a Security PIN is set
+   - Use the **homescreen** to monitor real-time CGM values and bolus activity
+   - Tap **"Manual Bolus"** to deliver insulin manually via keypad input
+   - Access **Profiles** to configure or edit time-based basal settings
+   - Use the **"Security PIN"** button to enable, change, or remove PIN protection
+   - Open **Device Settings** to simulate cartridge changes or view pump info
+
+## Screenshots
+
+### Homescreen (CGM + Bolus Overview)
+![Homescreen](screenshots/homescreen.png)
+
+### Manual Bolus Entry
+![Manual Bolus](screenshots/manual_bolus.png)
+
+### Security PIN Entry
+![PIN Screen](screenshots/pin_screen.png)
