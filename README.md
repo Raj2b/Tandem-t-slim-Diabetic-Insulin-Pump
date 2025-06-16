@@ -64,3 +64,17 @@ cd Tandem-t-slim-X2-Insulin-Pump
 
 ### Security PIN Entry
 ![PIN Screen](screenshots/LockScreen.png)
+
+## Architecture
+
+This project follows the **Model-View-Controller (MVC)** pattern:
+- **Model**: Person class for real-time CGM values, insulin state
+- **View**: Qt UI screens (homescreen, bolus, profiles, etc.)
+- **Controller**: Central controller coordinates logic and state
+
+  ## Authors
+
+- **Raj Biswas**  
+- **Ryan Mastin**  
+- **Steven Wu**
+- **Mikhail Pyatakhin**  
