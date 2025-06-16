@@ -79,3 +79,8 @@ This project follows the **Model-View-Controller (MVC)** pattern:
 - **Ryan Mastin**  
 - **Steven Wu**
 - **Mikhail Pyatakhin**  
+
+## License
+
+This project is currently **not licensed** for reuse.    
+Please contact me directly for permission if you wish to use any part of this project.
