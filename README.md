@@ -41,12 +41,12 @@ cd Tandem-t-slim-X2-Insulin-Pump
 ### 4. (Optional) Build Manually from Terminal
 
   - If you have qmake and make installed:
-    ```bash
-        mkdir build && cd build
-        qmake ../Tandem-t-slim-X2-Insulin-Pump.pro
-        make
-        ./Tandem-t-slim-X2-Insulin-Pump
-    
+```bash
+mkdir build && cd build
+qmake ../Tandem-t-slim-X2-Insulin-Pump.pro
+make
+./Tandem-t-slim-X2-Insulin-Pump
+```  
 ## Usage
    - On startup, the app shows a **lock screen** if a Security PIN is set
    - Use the **homescreen** to monitor real-time CGM values and bolus activity
