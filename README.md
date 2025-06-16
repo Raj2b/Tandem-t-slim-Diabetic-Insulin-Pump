@@ -26,6 +26,8 @@ During installation:
 
 ### 2. Clone the Repository
 
-
+```bash
 git clone https://github.com/Raj2b/Tandem-t-slim-X2-Insulin-Pump.git
 cd Tandem-t-slim-X2-Insulin-Pump
+
+### 3. Launch Qt Creator
