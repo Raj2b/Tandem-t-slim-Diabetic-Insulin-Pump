@@ -46,4 +46,5 @@ cd Tandem-t-slim-X2-Insulin-Pump
         make
         ./Tandem-t-slim-X2-Insulin-Pump
 
-
+### Usage
+   - App launces to lock scr
