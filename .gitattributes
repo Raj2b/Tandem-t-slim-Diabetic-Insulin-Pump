@@ -1,0 +1,6 @@
+Makefile linguist-vendored
+*.sample linguist-vendored
+*.user linguist-vendored
+*.png linguist-vendored
+*.cpp linguist-detectable=true
+*.h linguist-detectable=true
