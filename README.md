@@ -17,7 +17,7 @@ A full-stack simulator of the Tandem t:slim X2 insulin pump, built using C++ and
 ### 1. Install Qt and Qt Creator
 
 Download and install Qt from the official site:  
-👉 [https://www.qt.io/download](https://www.qt.io/download)
+[https://www.qt.io/download](https://www.qt.io/download)
 
 During installation:
 - Select the latest **Qt 6.x version** (e.g., Qt 6.5+)
