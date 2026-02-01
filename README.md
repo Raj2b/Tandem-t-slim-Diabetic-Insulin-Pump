@@ -35,7 +35,7 @@ cd Tandem-t-slim-X2-Insulin-Pump
 1. Launch Qt Creator
 2. Open the file: Tandem-t-slim-X2-Insulin-Pump.pro
 3. Select a valid Kit (e.g., Desktop Qt 6.5.0 GCC 64bit)
-4. Click Build ▶️ and then Run
+4. Click Build and then Run
    - Qt Creator takes care of build tools, compilers, kits, and dependencies for you.
      
 ### 4. (Optional) Build Manually from Terminal
